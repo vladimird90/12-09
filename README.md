@@ -60,3 +60,6 @@ select * from test_table;
 *2) Результата вывода команды на реплике ```select * from test_table;```.*
 
 **Решение:**
+
+![img](img/1-1.png)
+![img](img/1-2.png)
